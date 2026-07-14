@@ -35,7 +35,7 @@ The data that support the findings of this study are available from Yahoo Financ
 Ethical Compliance:
 This research does not involve human subjects, animals, or sensitive data requiring ethical approval.
 
-We believe this manuscript makes a significant contribution to the field of financial data science and will be of interest to JFDS readers. We look forward to your editorial decision and are prepared to address any reviewer comments promptly.
+We believe this manuscript makes a significant contribution to the field of financial innovation and will be of interest to Financial Innovation readers. We look forward to your editorial decision and are prepared to address any reviewer comments promptly.
 
 Thank you for considering our submission.
 
