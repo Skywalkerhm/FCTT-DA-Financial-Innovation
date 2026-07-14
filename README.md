@@ -81,3 +81,39 @@ FCTT-DA-Financial-Innovation/
 ## 致谢
 
 感谢Yahoo Finance和CoinGecko提供数据支持。
+
+## 代码说明
+
+本项目包含论文写作中使用的核心分析代码。这些代码用于数据生成、分析和结果验证。
+
+### 代码文件
+
+- `create_data_coverage_table.py`：创建数据覆盖表，生成资产信息
+- `context_utilization_analysis.py`：分析上下文利用率，比较真实上下文与随机上下文
+- `regenerate_tables_corrected.py`：重新生成修正后的表格
+- `recalculate_table4.py`：重新计算表格4（坍缩与阈值比较）
+- `generate_final_version.py`：生成最终版本的论文内容
+
+### 使用方法
+
+```bash
+# 安装依赖
+pip install -r requirements.txt
+
+# 运行代码
+python code/create_data_coverage_table.py
+python code/context_utilization_analysis.py
+python code/regenerate_tables_corrected.py
+python code/recalculate_table4.py
+python code/generate_final_version.py
+```
+
+### 代码说明
+
+这些代码主要用于：
+1. 数据生成和预处理
+2. 结果分析和验证
+3. 表格和图表生成
+4. 论文内容生成
+
+注意：这些代码是论文写作过程中使用的，可能包含一些硬编码的路径和参数。如需复现完整结果，可能需要调整路径和参数。
