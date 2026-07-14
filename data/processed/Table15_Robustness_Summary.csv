@@ -1,0 +1,9 @@
+Ablation,SPY_collapse,TLT_collapse,Key_finding,Conclusion
+Calibration,100%,0%,Not calibration artifact,Robust
+Action grids,100%,0%,Grid-invariant,Robust
+Exploration α,100%,0%,Exploration cannot fix,Robust
+Nonlinear policies,100%,0%,Algorithm-agnostic,Robust
+Random context,100%,0%,Source-driven,Robust
+Shuffled action,100%,0%,Mapping-invariant,Robust
+Temporal subsamples,100%,0%,Temporally stable,Robust
+Source origin,100%,0%,Originates on source,Robust

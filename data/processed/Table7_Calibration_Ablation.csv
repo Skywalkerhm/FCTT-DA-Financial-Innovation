@@ -1,0 +1,4 @@
+Calibration_method,SPY_collapse,QQQ_collapse,IWM_collapse,EEM_collapse,TLT_collapse,GLD_collapse,Overall_collapse,Mean_Sharpe_diff
+Uncalibrated,100%,100%,0%,100%,0%,100%,79%,+0.002
+Platt Scaling,100%,100%,0%,100%,0%,100%,79%,+0.003
+Isotonic Regression,100%,100%,0%,100%,0%,100%,79%,+0.002

@@ -1,0 +1,9 @@
+Metric,ZS6_vs_NoGating,ZS6_vs_Fixed_045
+Mean Sharpe diff.,+0.021,-0.004
+Std. error,0.008,0.009
+t-statistic,2.63,-0.44
+p-value,0.012,0.661
+Significant (5%),Yes,No
+Mean modal share,0.73,0.73
+Mean norm. entropy,0.65,0.65
+Mean effective actions,2.85,2.85

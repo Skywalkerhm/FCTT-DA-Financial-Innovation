@@ -1,0 +1,7 @@
+Source,Source_modal_share,Source_entropy,Source_degenerate,Mean_target_modal,Mean_target_entropy,Target_collapse_rate,Collapse_origin
+SPY,1.0,0.0,Yes,0.98,0.03,100%,Source
+QQQ,1.0,0.0,Yes,0.97,0.04,100%,Source
+IWM,0.68,0.72,No,0.71,0.68,0%,N/A
+EEM,1.0,0.0,Yes,0.99,0.02,100%,Source
+TLT,0.73,0.65,No,0.73,0.65,0%,N/A
+GLD,1.0,0.0,Yes,0.98,0.03,100%,Source

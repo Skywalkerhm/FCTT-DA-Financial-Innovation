@@ -1,0 +1,7 @@
+Source,Source_status,N_targets,Collapsed,Collapse_rate,Mean_modal_share,Mean_entropy
+SPY,Degenerate,38,38,100%,0.98,0.03
+QQQ,Degenerate,38,38,100%,0.97,0.04
+IWM,Diverse,38,0,0%,0.71,0.68
+EEM,Degenerate,38,38,100%,0.99,0.02
+TLT,Diverse,38,0,0%,0.73,0.65
+GLD,Degenerate,38,38,100%,0.98,0.03

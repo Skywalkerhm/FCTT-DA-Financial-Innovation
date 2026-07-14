@@ -1,0 +1,53 @@
+Cover Letter
+
+Financial Innovation
+
+Date: July 14, 2026
+
+Dear Editor,
+
+We are pleased to submit our manuscript entitled "Parameters Transfer, Policies May Not: Diagnosing Source Static Degeneracy in Cross-Asset Decision Gating" for consideration as a research article in the Financial Innovation.
+
+Summary of Research:
+This paper identifies and formalizes a previously unrecognized failure mode in cross-asset decision-layer transfer that we term "Source Static Degeneracy." When transferring contextual bandit policies across assets, a frozen policy may degenerate into a fixed probability threshold, losing all contextual adaptation while still appearing functional in standard backtests. This silent failure mode poses significant risks for quantitative teams deploying cross-asset transfer strategies.
+
+Key Contributions:
+1. Conceptual Innovation: We introduce "Source Static Degeneracy" as a novel diagnostic concept for transfer learning in finance.
+2. Empirical Taxonomy: Across 228 source-target pairs spanning seven asset categories, we establish that degenerate sources (SPY, QQQ, EEM, GLD) trigger universal action concentration on 100% of targets.
+3. Diagnostic Framework: We propose FCTT-DA (Frozen Contextual Threshold Transfer with Degeneracy Audit), a deployable framework featuring source diversity pre-checks, behavioral-equivalent baseline comparisons, and transaction cost sensitivity analysis.
+4. Practical Guidelines: Our findings challenge the implicit assumption that contextual policies inherently transfer contextual behavior, providing practitioners with concrete diagnostic tools.
+
+Relevance to Financial Innovation:
+This work addresses critical challenges at the intersection of financial technology and machine learning innovation—core areas of interest for Financial Innovation. Our FCTT-DA framework represents a methodological innovation in transfer learning for financial applications, offering practical diagnostic tools for deploying AI models in real-world financial settings. The paper's focus on robust model deployment, failure detection, and practical audit frameworks aligns perfectly with Financial Innovation's mission to advance innovative financial technologies and their responsible implementation.
+
+Originality and Significance:
+To our knowledge, this is the first systematic study of silent failure modes in cross-asset policy transfer—a critical innovation gap in financial machine learning. While transfer learning has been extensively studied in computer science, its application to financial decision-making reveals unique challenges due to low signal-to-noise ratios and non-stationary environments. Our work provides the first empirical taxonomy of transfer failure conditions and offers actionable solutions for fintech practitioners, representing a significant innovation in responsible AI deployment for finance.
+
+Author Contributions:
+All authors have made substantial contributions to this work. Min Huang developed the conceptual framework and led the empirical analysis. Mingyan Liu contributed to the theoretical formalization. Xiaoer Li assisted with data processing and validation. All authors have reviewed and approved the final manuscript.
+
+Conflicts of Interest:
+The authors declare no conflicts of interest.
+
+Data Availability:
+The data that support the findings of this study are available from Yahoo Finance. All data sources are publicly available. Equity and ETF price data are from Yahoo Finance. Cryptocurrency data are from Yahoo Finance and CoinGecko. Complete data manifests with SHA-256 checksums are provided in the supplementary materials.
+
+Ethical Compliance:
+This research does not involve human subjects, animals, or sensitive data requiring ethical approval.
+
+We believe this manuscript makes a significant contribution to the field of financial data science and will be of interest to JFDS readers. We look forward to your editorial decision and are prepared to address any reviewer comments promptly.
+
+Thank you for considering our submission.
+
+Sincerely,
+
+Min Huang (Corresponding Author)  
+The Chinese University of Hong Kong, Shenzhen  
+Email: minhuang1@link.cuhk.edu.cn  
+
+Mingyan Liu  
+Department of Electrical Engineering and Computer Science  
+University of Michigan  
+
+Xiaoer Li  
+The Chinese University of Hong Kong, Shenzhen  

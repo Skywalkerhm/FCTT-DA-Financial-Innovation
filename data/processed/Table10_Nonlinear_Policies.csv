@@ -1,0 +1,5 @@
+Policy,SPY_collapse,TLT_collapse,Overall_collapse,SPY_modal_share,TLT_modal_share,Mean_Sharpe,Runtime_hours
+LinUCB,100%,0%,79%,1.0,0.73,0.003,2.1
+KernelUCB (RBF),100%,0%,79%,1.0,0.71,0.002,8.4
+NeuralUCB (2-layer),100%,0%,79%,1.0,0.69,0.001,12.6
+Random Forest UCB,100%,0%,79%,1.0,0.72,0.002,5.3

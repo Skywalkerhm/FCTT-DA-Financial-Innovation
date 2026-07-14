@@ -1,0 +1,8 @@
+Subsample,N_periods,SPY_collapse,TLT_collapse,Overall_collapse,Mean_Sharpe_diff
+Full sample,3780,100%,0%,79%,+0.003
+Pre-2018,2016,100%,0%,78%,+0.004
+Post-2018,1764,100%,0%,80%,+0.002
+Crisis periods,504,100%,0%,82%,+0.001
+Normal periods,3276,100%,0%,77%,+0.004
+High volatility,1890,100%,0%,81%,+0.002
+Low volatility,1890,100%,0%,76%,+0.004

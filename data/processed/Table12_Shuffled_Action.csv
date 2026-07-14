@@ -1,0 +1,6 @@
+Mapping,SPY_collapse,TLT_collapse,Overall_collapse,SPY_modal_share,TLT_modal_share,Modal_action_changed
+Original,100%,0%,79%,1.0,0.73,-
+Shuffled (seed=1),100%,0%,79%,1.0,0.72,Yes
+Shuffled (seed=2),100%,0%,79%,1.0,0.74,Yes
+Shuffled (seed=3),100%,0%,79%,1.0,0.71,Yes
+Reversed,100%,0%,79%,1.0,0.73,Yes

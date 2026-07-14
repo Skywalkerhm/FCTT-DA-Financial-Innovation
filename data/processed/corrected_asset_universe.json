@@ -1,0 +1,76 @@
+{
+  "sources": [
+    "SPY",
+    "QQQ",
+    "IWM",
+    "EEM",
+    "TLT",
+    "GLD"
+  ],
+  "targets": {
+    "US Equity ETF (11)": [
+      "VTI",
+      "VOO",
+      "IVV",
+      "SCHB",
+      "SPTM",
+      "ITOT",
+      "VONE",
+      "IWB",
+      "SCHX",
+      "MGC",
+      "SPLG"
+    ],
+    "International Equity ETF (7)": [
+      "EFA",
+      "EFG",
+      "IEFA",
+      "SCHF",
+      "VEA",
+      "IEUR",
+      "SPDW"
+    ],
+    "Fixed Income ETF (6)": [
+      "AGG",
+      "BND",
+      "SCHZ",
+      "VTEB",
+      "MUB",
+      "LQD"
+    ],
+    "Commodity ETF (5)": [
+      "DBC",
+      "GSG",
+      "PDBC",
+      "USO",
+      "UNG"
+    ],
+    "Real Estate ETF (3)": [
+      "VNQ",
+      "IYR",
+      "SCHH"
+    ],
+    "Currency ETF (3)": [
+      "UUP",
+      "FXE",
+      "FXY"
+    ],
+    "Crypto (4)": [
+      "BTC-USD",
+      "ETH-USD",
+      "LTC-USD",
+      "XRP-USD"
+    ]
+  },
+  "total_targets": 39,
+  "total_pairs": 234,
+  "notes": {
+    "source_excluded_from_targets": true,
+    "coverage": "2010-2024",
+    "excluded_assets": [
+      "SOL-USD (2020 launch)",
+      "SCHK (duplicate with SCHX)"
+    ],
+    "source_target_overlap": "None"
+  }
+}

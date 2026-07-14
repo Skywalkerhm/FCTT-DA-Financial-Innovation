@@ -1,0 +1,7 @@
+Source,N_obs,Modal_action,Modal_share,Norm_entropy,Effective_actions,Status
+SPY,3780,0.50,1.0,0.0,1.0,Degenerate
+QQQ,3780,0.50,1.0,0.0,1.0,Degenerate
+IWM,3780,0.45,0.68,0.72,3.14,Diverse
+EEM,3780,0.50,1.0,0.0,1.0,Degenerate
+TLT,3780,0.45,0.73,0.65,2.85,Diverse
+GLD,3780,0.50,1.0,0.0,1.0,Degenerate

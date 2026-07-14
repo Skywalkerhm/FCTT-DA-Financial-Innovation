@@ -1,0 +1,5 @@
+Context_Feature,Oracle_Advantage_vs_Static,p_value,Significant_5pct,Interpretation
+EMD Trend,+0.005,0.12,No,Weak
+Volatility Quantile,+0.003,0.25,No,None
+Trend Strength,+0.004,0.18,No,Weak
+All Three,+0.008,0.008,Yes,Strong
