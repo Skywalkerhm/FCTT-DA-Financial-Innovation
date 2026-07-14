@@ -30,7 +30,7 @@ Conflicts of Interest:
 The authors declare no conflicts of interest.
 
 Data Availability:
-The data that support the findings of this study are available from Yahoo Finance. All data sources are publicly available. Equity and ETF price data are from Yahoo Finance. Cryptocurrency data are from Yahoo Finance and CoinGecko. Complete data manifests with SHA-256 checksums are provided in the supplementary materials.
+The data that support the findings of this study are available from Yahoo Finance. All data sources are publicly available. Equity and ETF price data are from Yahoo Finance. Cryptocurrency data are from Yahoo Finance and CoinGecko. Complete data manifests with SHA-256 checksums are provided in the supplementary materials. All code and processed data are publicly available on GitHub: https://github.com/Skywalkerhm/FCTT-DA-Financial-Innovation
 
 Ethical Compliance:
 This research does not involve human subjects, animals, or sensitive data requiring ethical approval.
